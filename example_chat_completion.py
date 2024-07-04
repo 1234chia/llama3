@@ -82,3 +82,9 @@ These are just a few of the many attractions that Paris has to offer. With so mu
 
 if __name__ == "__main__":
     fire.Fire(main)
+
+
+
+
+generate a presidential debate between Hilary Clinton and Donald Trump using their typical political vocabulary to properly portray their personal ideologies the question of the moderator should focus on themes like - climate change - covid pandemic - education - safety and violence in cities - election integrity and voting rights - immigration - economy
+
